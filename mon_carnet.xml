@@ -1,0 +1,18 @@
+<carnet>
+  <personne>
+    <nom>TestNom</nom>
+    <prenom>TestPrenom</prenom>
+    <items>
+      <item>
+        <nom>Objet</nom>
+        <date>17/03/2017</date>
+        <type>Type</type>
+      </item>
+      <item>
+        <nom>Harry Potter</nom>
+        <date>17/03/2017</date>
+        <type>Livre</type>
+      </item>
+    </items>
+  </personne>
+</carnet>
